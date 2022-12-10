@@ -124,6 +124,11 @@ header .navbar ul li a:hover{
 	overflow: hidden;
 }
 
+.content .btn{
+	margin-top: 10rem;
+	margin-left: 23rem;
+}
+
 .home{
 	min-height: 100%;
 	display: flex;
